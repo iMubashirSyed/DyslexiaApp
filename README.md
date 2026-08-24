@@ -1,6 +1,7 @@
 # DyslexiaApp 🚀
 
 This project was built as a Final Year project.
+
 DyslexiaApp is a React Native application designed to assist children with dyslexia. It leverages AI and various interactive features to aid in learning and cognitive development.
 
 ## Project Overview
