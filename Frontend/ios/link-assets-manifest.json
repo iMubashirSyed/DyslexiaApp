@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/CarmenSans-Bold.ttf",
+      "sha1": "4347613f5ade2abfaa83d48dd35a20dc933bb62e"
+    },
+    {
+      "path": "assets/fonts/CarmenSans-ExtraBold.ttf",
+      "sha1": "87d7cc934eb61c91ea3b2d05c41d2bf6ab948a1b"
+    },
+    {
+      "path": "assets/fonts/CarmenSans-Heavy.ttf",
+      "sha1": "562f24b644bf7815ef01362977f6735af823b3ca"
+    },
+    {
+      "path": "assets/fonts/CarmenSans-Light.ttf",
+      "sha1": "fb9a2115aa75d7d7923a926eba8503f7ae20ceeb"
+    },
+    {
+      "path": "assets/fonts/CarmenSans-Medium.ttf",
+      "sha1": "3547e368417912a615789c1af093f7e4ca03b34f"
+    },
+    {
+      "path": "assets/fonts/CarmenSans-Regular.ttf",
+      "sha1": "3e594ac2a7b655c3c04d38e7efe7c3bf12a40d75"
+    },
+    {
+      "path": "assets/fonts/CarmenSans-SemiBold.ttf",
+      "sha1": "52a3d4397d64e389ccb869302777970f5fbfd9c3"
+    },
+    {
+      "path": "assets/fonts/CarmenSans-Thin.ttf",
+      "sha1": "ba8dcd3fdd14797bac4f0605433f6bd277033052"
+    },
+    {
+      "path": "assets/fonts/CarmenSans-UltraLight.ttf",
+      "sha1": "91a734117ca8dd04254854e87b413ec923e1ca3a"
+    }
+  ]
+}
